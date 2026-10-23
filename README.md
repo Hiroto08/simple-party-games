@@ -1,4 +1,4 @@
-# シンプル飲み会ゲーム（Simple Party Games）
+# Flash! パーティーゲーム（Flash! Simple Party Games）
 
 アプリのサポート・プライバシーポリシー・利用規約のページです。GitHub Pages で公開しています。
 
